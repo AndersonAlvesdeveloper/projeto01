@@ -1,0 +1,30 @@
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 02 - 04.10.22\Projeto02\Projeto02\bin\Debug\net6.0\Projeto02.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 02 - 04.10.22\Projeto02\Projeto02\bin\Debug\net6.0\Projeto02.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 02 - 04.10.22\Projeto02\Projeto02\bin\Debug\net6.0\Projeto02.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 02 - 04.10.22\Projeto02\Projeto02\bin\Debug\net6.0\Projeto02.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 02 - 04.10.22\Projeto02\Projeto02\bin\Debug\net6.0\ref\Projeto02.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 02 - 04.10.22\Projeto02\Projeto02\bin\Debug\net6.0\Projeto02.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 02 - 04.10.22\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 02 - 04.10.22\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 02 - 04.10.22\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 02 - 04.10.22\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 02 - 04.10.22\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 02 - 04.10.22\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 02 - 04.10.22\Projeto02\Projeto02\obj\Debug\net6.0\ref\Projeto02.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 02 - 04.10.22\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 02 - 04.10.22\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.genruntimeconfig.cache
+C:\Users\manin\Desktop\Projeto02\Projeto02\bin\Debug\net6.0\Projeto02.exe
+C:\Users\manin\Desktop\Projeto02\Projeto02\bin\Debug\net6.0\Projeto02.deps.json
+C:\Users\manin\Desktop\Projeto02\Projeto02\bin\Debug\net6.0\Projeto02.runtimeconfig.json
+C:\Users\manin\Desktop\Projeto02\Projeto02\bin\Debug\net6.0\Projeto02.dll
+C:\Users\manin\Desktop\Projeto02\Projeto02\bin\Debug\net6.0\Projeto02.pdb
+C:\Users\manin\Desktop\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.csproj.AssemblyReference.cache
+C:\Users\manin\Desktop\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manin\Desktop\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.AssemblyInfoInputs.cache
+C:\Users\manin\Desktop\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.AssemblyInfo.cs
+C:\Users\manin\Desktop\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.csproj.CoreCompileInputs.cache
+C:\Users\manin\Desktop\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.dll
+C:\Users\manin\Desktop\Projeto02\Projeto02\obj\Debug\net6.0\refint\Projeto02.dll
+C:\Users\manin\Desktop\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.pdb
+C:\Users\manin\Desktop\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.genruntimeconfig.cache
+C:\Users\manin\Desktop\Projeto02\Projeto02\obj\Debug\net6.0\ref\Projeto02.dll
